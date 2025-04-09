@@ -34,7 +34,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **CSS3** – Estilização e responsividade
 - **JavaScript** – Lógica para gerar senhas e avaliar segurança
 
-## 🛠 Tecnologias Utilizadas
+## 💡 Funcionalidades
 
 - Geração de senhas de 4 a 64 caracteres
 - Opção de incluir/excluir:
