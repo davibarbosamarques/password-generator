@@ -3,19 +3,6 @@
     🔗 <strong>Visite o projeto aqui</strong>
 </a>
 
-Este é um gerador de senhas seguras feito com HTML, CSS e JavaScript.
-Você pode personalizar completamente sua senha escolhendo:
-
-✅ Tamanho (de 4 a 64 caracteres)
-
-✅ Letras maiúsculas
-
-✅ Números
-
-✅ Caracteres especiais
-
-Além disso, o gerador analisa a força da senha em tempo real! 🔒
-
 ## 📸 Prévia do Projeto
 
 <img src="img-readmi/img-readmi.png">
