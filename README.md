@@ -5,7 +5,7 @@
 
 ## 📸 Prévia do Projeto
 
-<img src="img-readmi/img-readmi.png" width="40px">
+<img src="img-readmi/img-readmi.png" width="70%">
 
 ## 🛠 Tecnologias Utilizadas
 
